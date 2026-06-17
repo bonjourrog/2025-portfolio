@@ -2,8 +2,8 @@ export const translations = {
     en: {
         nav: ['Home', 'About', 'Experience', 'Projects', 'Skills', 'Contact'],
         hero: {
-            title: 'Frontend-focused Full-Stack Developer',
-            subtitle: 'Specialized in building modern, scalable web experiences using React, Next.js, TypeScript and Go.',
+            title: 'Full-Stack Developer',
+            subtitle: 'Specialized in building modern, scalable web experiences using React, Next.js, TypeScript, AWS and Go.',
             cta: 'View my projects'
         },
         about: {
